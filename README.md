@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supersonusourav.
-- 👀 I’m interested in augmented reality, social reforms using technology.
+- 👀 I’m interested in the new world technologies and social reforms using technology.
 - 🌱 I’m currently learning almost everything.
-- 💞️ I’m looking to collaborate on a project about personal assistant-cum-companion application.
+- 💞️ I’m looking to collaborate on any project about personal assistant or companion applications.
 - 📫 Reach me through Instagram.
 
 <!---
